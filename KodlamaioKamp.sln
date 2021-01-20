@@ -17,15 +17,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mathematic", "Mathematic\Ma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueAndReferenceTypes", "ValueAndReferenceTypes\ValueAndReferenceTypes.csproj", "{EB796EA3-0892-4CFF-B890-CE83F0E11590}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_ThirdDay", "Homework_ThirdDay\Homework_ThirdDay.csproj", "{EAFD3925-A49A-4E92-A638-D7352AD09607}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_ThirdDay", "Homework_ThirdDay\Homework_ThirdDay.csproj", "{EAFD3925-A49A-4E92-A638-D7352AD09607}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_ThirdDayPart2", "Homework_ThirdDayPart2\Homework_ThirdDayPart2.csproj", "{26716301-E52E-4474-B0FD-A0369C3D956F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_ThirdDayPart2", "Homework_ThirdDayPart2\Homework_ThirdDayPart2.csproj", "{26716301-E52E-4474-B0FD-A0369C3D956F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_ThirdDayPart3", "Homework_ThirdDayPart3\Homework_ThirdDayPart3.csproj", "{53D249E8-B663-4A4A-8535-84477833FCCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_ThirdDayPart3", "Homework_ThirdDayPart3\Homework_ThirdDayPart3.csproj", "{53D249E8-B663-4A4A-8535-84477833FCCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_ThirdDayPart4", "Homework_ThirdDayPart4\Homework_ThirdDayPart4.csproj", "{7C3253D8-6864-4A85-9ECD-ADCDF61DFA14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_ThirdDayPart4", "Homework_ThirdDayPart4\Homework_ThirdDayPart4.csproj", "{7C3253D8-6864-4A85-9ECD-ADCDF61DFA14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_ThirdDayPart5", "Homework_ThirdDayPart5\Homework_ThirdDayPart5.csproj", "{13EE312C-D35C-43C1-BD8C-FE99A396FC27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_ThirdDayPart5", "Homework_ThirdDayPart5\Homework_ThirdDayPart5.csproj", "{13EE312C-D35C-43C1-BD8C-FE99A396FC27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{861D6123-B847-41E9-A903-EDDC2F6B0D65}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{A1B7B634-E1A7-4578-A21C-7ABEDBB7DF3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{B1FFDA7B-CA92-425E-B17E-0499336FBD43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +87,18 @@ Global
 		{13EE312C-D35C-43C1-BD8C-FE99A396FC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13EE312C-D35C-43C1-BD8C-FE99A396FC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13EE312C-D35C-43C1-BD8C-FE99A396FC27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861D6123-B847-41E9-A903-EDDC2F6B0D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861D6123-B847-41E9-A903-EDDC2F6B0D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861D6123-B847-41E9-A903-EDDC2F6B0D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861D6123-B847-41E9-A903-EDDC2F6B0D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B7B634-E1A7-4578-A21C-7ABEDBB7DF3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B7B634-E1A7-4578-A21C-7ABEDBB7DF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B7B634-E1A7-4578-A21C-7ABEDBB7DF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B7B634-E1A7-4578-A21C-7ABEDBB7DF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1FFDA7B-CA92-425E-B17E-0499336FBD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1FFDA7B-CA92-425E-B17E-0499336FBD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1FFDA7B-CA92-425E-B17E-0499336FBD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1FFDA7B-CA92-425E-B17E-0499336FBD43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
