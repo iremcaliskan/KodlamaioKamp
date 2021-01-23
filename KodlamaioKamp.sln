@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_FourthDay", "Homew
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_FourthDayPart2", "Homework_FourthDayPart2\Homework_FourthDayPart2.csproj", "{5DE46238-191A-448F-8568-8821330C2123}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_FourthDayPart3", "Homework_FourthDayPart3\Homework_FourthDayPart3.csproj", "{8C5889A4-3B70-4E1B-8B6E-577B262F6DF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_FourthDayPart3", "Homework_FourthDayPart3\Homework_FourthDayPart3.csproj", "{8C5889A4-3B70-4E1B-8B6E-577B262F6DF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_FourthDayPart4", "Homework_FourthDayPart4\Homework_FourthDayPart4.csproj", "{3D7AB0AF-F98B-4AD6-8069-4AABA923276E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{8C5889A4-3B70-4E1B-8B6E-577B262F6DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C5889A4-3B70-4E1B-8B6E-577B262F6DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C5889A4-3B70-4E1B-8B6E-577B262F6DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D7AB0AF-F98B-4AD6-8069-4AABA923276E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7AB0AF-F98B-4AD6-8069-4AABA923276E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7AB0AF-F98B-4AD6-8069-4AABA923276E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7AB0AF-F98B-4AD6-8069-4AABA923276E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
